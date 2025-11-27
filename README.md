@@ -43,3 +43,11 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+## ⭐ Key Learnings
+- [x] Mastered Power Query for ETL
+- [x] Built optimized Data Models using Power Pivot
+- [x] Developed finance & sales insights using pivot reporting
+- [x] Strengthened understanding of P&L structures & revenue drivers
+- [x] Enhanced storytelling with clear visual reporting
+- [x] Learned how analytics directly impacts business strategy
